@@ -1,1 +1,1 @@
-FROM eipwork/kuboard-agent:v3
+FROM gcr.io/eipwork/kuboard-agent:v3
