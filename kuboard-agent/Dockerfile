@@ -1,1 +1,1 @@
-FROM eipwork/kuboard-agent
+FROM eipwork/kuboard-agent:v3
