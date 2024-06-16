@@ -1,0 +1,1 @@
+FROM docker.io/flannel/flannel-cni-plugin:v1.2.0@sha256:3c07f40a537f9f7bfcd07c2582253d35465cc86004d8bd59a5e9a76f89779f35
