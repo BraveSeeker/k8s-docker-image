@@ -1,1 +1,1 @@
-FROM eipwork/kuboard
+FROM docker.io/eipwork/kuboard:v3
